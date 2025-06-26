@@ -1,0 +1,10 @@
+- script tag
+- variables
+- numbers
+- strings
+- console.log()
+- functions
+- the DOM
+- getElementById()
+- innerText
+- textContent
